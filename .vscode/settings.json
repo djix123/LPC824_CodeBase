@@ -1,4 +1,4 @@
 {
-    "cortex-debug.armToolchainPath": "/usr/local/bin",
+    "cortex-debug.armToolchainPath": "/opt/homebrew/bin",
     "cortex-debug.openocdPath": "/Users/jgiles/tools/openocd/bin/openocd"
 }

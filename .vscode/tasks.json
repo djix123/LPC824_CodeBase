@@ -6,7 +6,7 @@
         {
             "type": "shell",
             "label": "Build All",
-            "command": "gmake GCC_PATH=/usr/local/bin",
+            "command": "gmake GCC_PATH=/opt/homebrew/bin",
             "problemMatcher": {
                 "base": "$gcc"
             },
